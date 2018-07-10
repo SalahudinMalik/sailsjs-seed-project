@@ -1,6 +1,8 @@
 # sailsjs-seed-project
 sails js seed project
 
+It contains a user api and its crud operations
+
 This project contains login system with jwtoken.
 
 To run :
